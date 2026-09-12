@@ -41,4 +41,4 @@ I turn creative ideas into fast, functional web applications. Full-time & remote
 ## 🎓 Education
 
 - **Master Ingénieur des Médias — Web Dev**, ISAMM (2026)
-- **Licence STI (Multimédia & Web)**, ISAMM (2024)
+- **Licence en Communication Multimédia**, ISAMM (2024)
